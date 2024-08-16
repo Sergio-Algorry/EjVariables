@@ -20,7 +20,7 @@ namespace EjVariables
         private void button1_Click(object sender, EventArgs e)
         {
             int sumando1 = 10;
-            int suma2 = 50;
+            int suma2 = 40;
 
             int suma3 = 40;
 
